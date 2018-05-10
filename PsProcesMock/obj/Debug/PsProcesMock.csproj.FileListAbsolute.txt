@@ -1,0 +1,10 @@
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PsProcesMock.csprojResolveAssemblyReference.cache
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PsProcesMock.csproj.GenerateResource.cache
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PsProcesMock.csproj.CoreCompileInputs.cache
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\adam kiss\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
